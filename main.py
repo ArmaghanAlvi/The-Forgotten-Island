@@ -1739,7 +1739,7 @@ o888ooooood8 o888o o888o `Y8bod88P" o888o o888o o888o `8oooooo.
 
     control.storyLine("You live the rest of your life on the island.", 3)
     control.storyLine("You learn their language, customs, tradititons, etc.", 3)
-    control.storyLine("You live out your life, getting married and watching you children, your granchildren, and their children grow up.", 3)
+    control.storyLine("You live out your life, getting married and watching your children, your granchildren, and their children grow up.", 3)
     control.storyLine("When you die, your only regret is that you never learned about your past.", 3)
 
     control.clear()
