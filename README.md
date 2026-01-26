@@ -18,7 +18,7 @@
 
 
 ## Project Overview
-I made this project in 2021 for my highschool Video Game Design midterm. The requirements were to make a simple text-based adventure game that showed mastery of python syntax, 
+I made this project in 2022 for my highschool Video Game Design midterm. The requirements were to make a simple text-based adventure game that showed mastery of python syntax, 
 understanding of conditionals, loops, functions, etc. Being a highschool freshman with too much time, I decided to go further than that, and created this far more developed game. 
 This text-based adventure game runs in the terminal once the code is run. The premise of the game's story is that the player wakes up stranded on an island with amnesia, and has to
 figure out how to escape. However, they are not simply stuck there, but they are also in a time loop, where the day restarts if they reach the end, or die at some point during it.
@@ -61,6 +61,6 @@ It also helped me properly grasp Python as a language, and understand code logic
 
 
 ## Acknowledgements
-This project was made in repl.it, now known as replit.com. 
+This project was made in replit.com. 
 
 
