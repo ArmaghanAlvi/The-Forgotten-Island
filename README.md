@@ -61,6 +61,6 @@ It also helped me properly grasp Python as a language, and understand code logic
 
 
 ## Acknowledgements
-This project was made in replit.com. 
+This project was made on replit.com. 
 
 
