@@ -39,7 +39,7 @@ either accomplish the Escape Ending or the New Beginnings Ending.
 * Timer from threading module
 * os
 
-## Features ands Classes
+## Features and Classes
 Title text: title is printed as large, styled words using ASCII text art
 
 Text display: Manual and auto text display options are provided
