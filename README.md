@@ -20,15 +20,15 @@
 ## Project Overview
 I made this project in 2021 for my highschool Video Game Design midterm. The requirements were to make a simple text-based adventure game that showed mastery of python syntax, 
 understanding of conditionals, loops, functions, etc. Being a highschool freshman with too much time, I decided to go further than that, and created this far more developed game. 
-This text-based adventure game runs in the terminal once the code is run.
+This text-based adventure game runs in the terminal once the code is run. The premise of the game's story is that the player wakes up stranded on an island with amnesia, and has to
+figure out how to escape. However, they are not simply stuck there, but they are also in a time loop, where the day restarts if they reach the end, or die at some point during it.
 
-The premise of the game's story is that the player wakes up stranded on an island with amnesia, and has to figure out how to escape. However, I considered most text-based RPG options 
-where it is simply a tree of choices which takes trial and error to find the correct path to the end to be boring. Due to this, I created a game where there are two positive endings 
-and one negative ending, meaning there are multiple end points to the game, and not only a single path to sucess. Further, there are parts of the game that allow the player to 
-linger in an area for a while (there is a mechanic that makes it so if the player takes too much in-game time and reaches the end of the day, the day restarts, meaning the player's
-character is stuck in a time-loop.), and other parts that are not consistently the same each time around. The restarting of the game once the player dies is also not traditional to a 
-basic text based RPG, as it doesn't actually restart the game immediately. Instead, deaths are counted as day-restarts as well. If the player suffers from too many day-restarts,
-they reach the negative Insanity Ending. If they manage to reach the end of the game successfully, they will either accomplish the Escape Ending or the New Beginnings Ending.
+I considered most text-based RPG options where it is simply a tree of choices which takes trial and error to find the correct path to the end to be boring. Due to this, 
+I created a game where there are two positive endings and one negative ending, meaning there are multiple end points to the game, and not only a single path to sucess. 
+Further, there are parts of the game that allow the player to linger in an area for a while, and other parts that are not consistently the same each time around. 
+
+The restarting of the game once the player dies is also not traditional to a basic text based RPG, as it doesn't actually restart the game immediately. Instead, deaths are counted as day-restarts as well. If the player suffers from too many day-restarts, they reach the negative Insanity Ending. If they manage to reach the end of the game successfully, they will 
+either accomplish the Escape Ending or the New Beginnings Ending.
 
 ### Built with
 **Language used:** Python  
